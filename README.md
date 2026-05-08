@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Felipe
 
-<!--
-**felipeadorno-dev/felipeadorno-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Student  
+🌱 Learning HTML, CSS and JavaScript  
+🚀 Future Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Technologies
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="40"/>
+</div>
+
+---
+
+# 📚 Currently Learning
+
+- Responsive Design
+- JavaScript
+- Front-End Development
+- Git and GitHub
+
+---
+
+# 🌐 Connect with me
+
+<a href="https://www.linkedin.com/in/felipedsadorno" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+---
+
+⭐ Thanks for visiting my profile!
